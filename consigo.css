@@ -1,0 +1,52 @@
+html{
+    background-color:rgb(57, 57, 61);} 
+
+    .logo1{
+        width: 290px;
+        padding-top: 10px;
+        padding-left: 585px;}
+        
+h1{ 
+    text-align: center;   
+    border-radius: 05px;
+    border: 1px solid; 
+    background-color:rgb(238, 238, 241);
+    height: 45px;
+    margin: -4px;
+    padding-top: 2px;    
+}
+
+span{
+    font-style:italic;
+    color:rgb(98, 16, 123);
+    font-size: 35px;}    
+
+    
+
+texto{
+    font-style:italic;
+    color:aqua;
+    cursor:pointer;
+    font-size: 25px;}    
+
+    .sonho{ 
+        color:rgb(248, 245, 243);
+        font-size: 20px;
+        font-style:italic; 
+        border-radius: 5px;
+        cursor:pointer;
+        background-color:#16141d;
+        border: 3px solid;}
+
+.lamborghini{
+    width: 500px;
+    margin-top: 0px;
+}    
+
+    
+
+
+    
+
+
+
